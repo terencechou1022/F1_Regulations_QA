@@ -1,0 +1,13 @@
+# FIA 規則 PDF 是公開文件，但體積大且有版本問題（Issue 會更新）。
+# 由 fetch_regulations 取得，README 記錄了確切的 Issue 與日期。
+data/raw/
+data/chroma/
+
+# 金鑰絕不進版控
+Gemini_API_Key.txt
+.env
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/

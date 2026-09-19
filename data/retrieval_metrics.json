@@ -1,0 +1,446 @@
+{
+  "summary": {
+    "n_cases": 30,
+    "recall@1": 0.0,
+    "recall@3": 0.0667,
+    "recall@5": 0.0667,
+    "citation_accuracy": 0.0
+  },
+  "cases": [
+    {
+      "id": 1,
+      "question": "車隊被送交賽會審查團之前，FIA 會先正式通知他們嗎？",
+      "expected": [
+        "A6.4.1"
+      ],
+      "retrieved": [
+        "A1.2.1",
+        "A1.2.2",
+        "A9.2.1",
+        "A5.2.3",
+        "A1.2.3"
+      ],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 2,
+      "question": "除了一般罰則之外，車隊或車手在年度錦標賽層級還可能被加重處罰嗎？",
+      "expected": [
+        "A7.12.3"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 3,
+      "question": "誰有權開啟調查程序，是 FIA 還是賽會審查團？",
+      "expected": [
+        "A6.1.1"
+      ],
+      "retrieved": [
+        "A1.2.1",
+        "A1.2.2",
+        "A9.2.1",
+        "A5.2.3",
+        "A1.2.3"
+      ],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 4,
+      "question": "違規案件會被送到哪個機構審理？財務相關的違規也一樣嗎？",
+      "expected": [
+        "A7.4.2"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 5,
+      "question": "比賽開始的時候，哪些賽事官員一定要在場？",
+      "expected": [
+        "B1.3.4"
+      ],
+      "retrieved": [
+        "B2.5.3",
+        "B2.3.3",
+        "B2.5.4",
+        "B2.3.4",
+        "B5.16.2"
+      ],
+      "rank": null,
+      "aliases": [
+        "比賽"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "賽會要通知各車隊事情的時候，是用什麼方式發布的？",
+      "expected": [
+        "B1.1.2"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 7,
+      "question": "正賽一定要用到兩種不同的乾胎嗎？下雨用了雨胎的話還算嗎？",
+      "expected": [
+        "B6.3.6"
+      ],
+      "retrieved": [
+        "B2.5.3",
+        "B2.3.3",
+        "B2.5.4",
+        "B2.3.4",
+        "B5.16.2"
+      ],
+      "rank": null,
+      "aliases": [
+        "正賽"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "罰則可以像緩刑那樣暫緩執行嗎？",
+      "expected": [
+        "A7.12.4"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 9,
+      "question": "如果違反的是 F1 規則以外的其他 FIA 規定，會怎麼處理？",
+      "expected": [
+        "A1.3.3"
+      ],
+      "retrieved": [
+        "A9.2.1",
+        "A1.2.3",
+        "A9.2.3",
+        "A9.4.3",
+        "A9.4.2"
+      ],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 10,
+      "question": "衝刺賽如果一直被中斷，總時間會不會有上限？",
+      "expected": [
+        "B2.3.3"
+      ],
+      "retrieved": [
+        "B2.5.3",
+        "B2.3.3",
+        "B2.5.4",
+        "B2.3.4",
+        "B5.16.2"
+      ],
+      "rank": 2,
+      "aliases": [
+        "衝刺賽"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "自由練習結束之後，車手可以留在賽道上練習起跑嗎？",
+      "expected": [
+        "B4.2.2"
+      ],
+      "retrieved": [
+        "B2.4.3",
+        "B1.9.4",
+        "B2.2.3",
+        "B2.1.3",
+        "B2.5.4"
+      ],
+      "rank": null,
+      "aliases": [
+        "自由練習"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "超車模式在排位賽和正賽的啟用規則一樣嗎？",
+      "expected": [
+        "B7.2.2"
+      ],
+      "retrieved": [
+        "B2.4.3",
+        "B2.5.4",
+        "B2.3.4",
+        "B2.2.3",
+        "B2.1.3"
+      ],
+      "rank": null,
+      "aliases": [
+        "排位賽",
+        "排位",
+        "正賽"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "車隊要在什麼時候把懸吊設定表交給技術代表？",
+      "expected": [
+        "B3.5.2"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 14,
+      "question": "什麼情況下會出安全車，而不是直接紅旗中斷比賽？",
+      "expected": [
+        "B5.13"
+      ],
+      "retrieved": [
+        "B5.13.1",
+        "B5.13.5",
+        "B2.5.3",
+        "B2.3.3",
+        "B2.5.4"
+      ],
+      "rank": null,
+      "aliases": [
+        "比賽",
+        "安全車"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "比賽中斷後重新開始時，車輛是排在發車格還是維修道？計時會停嗎？",
+      "expected": [
+        "B5.15.2"
+      ],
+      "retrieved": [
+        "B3.5.1",
+        "B5.10.4",
+        "B1.6.3",
+        "B5.1.5",
+        "B5.7.3"
+      ],
+      "rank": null,
+      "aliases": [
+        "比賽",
+        "維修道"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "正賽起跑前會有哪些時間提示訊號？分別是幾分鐘前？",
+      "expected": [
+        "B5.5.1"
+      ],
+      "retrieved": [
+        "B2.5.3",
+        "B2.3.3",
+        "B2.5.4",
+        "B2.3.4",
+        "B5.16.2"
+      ],
+      "rank": null,
+      "aliases": [
+        "正賽"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "車隊要在什麼時候把工作人員名單送交 FIA？",
+      "expected": [
+        "B9.4.1"
+      ],
+      "retrieved": [
+        "A1.2.1",
+        "A1.2.2",
+        "A9.2.1",
+        "A5.2.3",
+        "A1.2.3"
+      ],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 18,
+      "question": "練習賽和排位賽前後多久，賽道會進入管制狀態？",
+      "expected": [
+        "B1.5.4"
+      ],
+      "retrieved": [
+        "B2.4.3",
+        "B1.9.4",
+        "B2.2.3",
+        "B2.1.3",
+        "B2.5.4"
+      ],
+      "rank": null,
+      "aliases": [
+        "排位賽",
+        "排位",
+        "練習賽"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "可調式尾翼要滿足什麼條件車手才能啟用？",
+      "expected": [
+        "B7.1.2"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 20,
+      "question": "排位賽時車子停在賽道上，被工作人員推了一把，還能繼續跑嗎？",
+      "expected": [
+        "B4.3.2"
+      ],
+      "retrieved": [
+        "B2.4.3",
+        "B1.9.4",
+        "B2.2.3",
+        "B2.1.3",
+        "B2.5.4"
+      ],
+      "rank": null,
+      "aliases": [
+        "排位賽",
+        "排位"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "正賽的發車順序怎麼決定？排位賽是在週末的哪一天跑？",
+      "expected": [
+        "B2.4.1"
+      ],
+      "retrieved": [
+        "B2.4.3",
+        "B2.5.4",
+        "B2.3.4",
+        "B2.2.3",
+        "B2.1.3"
+      ],
+      "rank": null,
+      "aliases": [
+        "排位賽",
+        "排位",
+        "正賽"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "額外配發做測試用的輪胎，要在多久之內歸還？",
+      "expected": [
+        "B6.6.7"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 23,
+      "question": "封閉檢查區裡面，每台車最多可以有幾個技師進去？",
+      "expected": [
+        "B3.6.3"
+      ],
+      "retrieved": [
+        "B3.6.2",
+        "B3.6.3",
+        "B5.16.3",
+        "B3.6.5",
+        "B3.5.7"
+      ],
+      "rank": 2,
+      "aliases": [
+        "封閉檢查區"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "規則裡那些大寫開頭的專有名詞，定義寫在哪裡？適用於全部章節嗎？",
+      "expected": [
+        "A9.4.5"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 25,
+      "question": "在封閉檢查狀態下經同意更換掉的零件，會對外公開嗎？",
+      "expected": [
+        "B3.5.9"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 26,
+      "question": "規則上「一套輪胎」的定義是什麼？",
+      "expected": [
+        "B6.2.2"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 27,
+      "question": "規則的解讀出現爭議時，以哪個語言的版本為準？",
+      "expected": [
+        "A9.4.1"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 28,
+      "question": "特定人員可以獲得豁免、不必接受相關測試嗎？",
+      "expected": [
+        "A4.1.4"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 29,
+      "question": "頒獎台的典禮有哪些人一定要出席？",
+      "expected": [
+        "B10.2.1"
+      ],
+      "retrieved": [],
+      "rank": null,
+      "aliases": []
+    },
+    {
+      "id": 30,
+      "question": "FIA 給某個車隊的規則解釋，會讓其他車隊也知道嗎？",
+      "expected": [
+        "A9.5.4"
+      ],
+      "retrieved": [
+        "A1.2.1",
+        "A1.2.2",
+        "A9.2.1",
+        "A5.2.3",
+        "A1.2.3"
+      ],
+      "rank": null,
+      "aliases": []
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "AFC": {
+    "acronym": "AFC",
+    "term": "Alternative Format Competition",
+    "definition": "any Competition where a Sprint is scheduled.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "有衝刺賽的分站",
+      "衝刺賽週末"
+    ]
+  },
+  "CC": {
+    "acronym": "CC",
+    "term": "Current Car",
+    "definition": "defined as a car which was designed and constructed in order to comply with the Regulations of the 2026 or subsequent Championships. No Competitor may sell or make available any such Current Car to any third party without the prior authorisation of the FIA.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "現役賽車"
+    ]
+  },
+  "DE": {
+    "acronym": "DE",
+    "term": "Demonstration Event",
+    "definition": "defined as an event in which a Competitor participates purely for marketing or demonstration purposes.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "示範活動"
+    ]
+  },
+  "DMS": {
+    "acronym": "DMS",
+    "term": "Document Management System",
+    "definition": "the FIA provided document management and exchange system used as the primary means of document exchange with Competitors during a Competition.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "文件管理系統"
+    ]
+  },
+  "HC": {
+    "acronym": "HC",
+    "term": "Historic Car",
+    "definition": "defined as a car which was designed and constructed in order to comply with the Regulations in force during the years preceding those referred in the definition of a Previous Car.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "古董賽車"
+    ]
+  },
+  "LTCS": {
+    "acronym": "LTCS",
+    "term": "Lap Time Classified Session",
+    "definition": "any track running session during which the classification of the session is determined based upon the time taken by a driver to complete a single lap. Lap Time Classified Sessions include, but are not limited to, free practice sessions, the sprint qualifying session and the qualifying session.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "排位賽",
+      "排位",
+      "自由練習",
+      "練習賽",
+      "FP1",
+      "FP2",
+      "FP3"
+    ]
+  },
+  "OMS": {
+    "acronym": "OMS",
+    "term": "OWicial Messaging System",
+    "definition": "the FIA o`icial messaging system that will be used as a means of real-time or near real-time communication to all Competitors during a Competition. Unless otherwise specifically defined, where in these Sporting FIA F1 Regulations where it is stated that a pre-determined message will be sent to all Competitors, or that all Competitors will be notified or informed of specific information during a competition, this will be done using the O`icial Messaging System.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf"
+  },
+  "PC": {
+    "acronym": "PC",
+    "term": "Previous Car",
+    "definition": "defined as a car which was designed and constructed in order to comply with the Regulations of any of the 2022 - 2025 Championships. No Competitor may sell or make available any such Previous Car to any third party without the prior authorisation of the FIA.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "前代賽車"
+    ]
+  },
+  "PE": {
+    "acronym": "PE",
+    "term": "Promotional Event",
+    "definition": "defined as an event in which a Competitor participates purely for marketing or promotional purposes using a Current Car.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "宣傳活動"
+    ]
+  },
+  "RNC": {
+    "acronym": "RNC",
+    "term": "Restricted Number Components",
+    "definition": "components which have a limitation in numbers that can be used by each driver in a Competition during a Championship.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "限用數量零件",
+      "限量零件"
+    ]
+  },
+  "RP": {
+    "acronym": "RP",
+    "term": "Restricted Period",
+    "definition": "defined as a period of time during which, with the exception of the provisions of Article B9.4.1, team personnel who are associated in any way with the operation of the F1 Cars are not permitted within the confines of the circuit",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "禁制期間",
+      "宵禁"
+    ]
+  },
+  "SFC": {
+    "acronym": "SFC",
+    "term": "Standard Format Competition",
+    "definition": "any Competition where a Race is scheduled and a Sprint is not scheduled.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "標準賽制分站",
+      "沒有衝刺賽的週末"
+    ]
+  },
+  "TTCS": {
+    "acronym": "TTCS",
+    "term": "Total Time Classified Session",
+    "definition": "any track running session during which the classification of the session is determined based upon the total time taken by a driver to complete a number of laps greater than one. Total Time Classified Sessions include, but are not limited to, the Sprint session and the Race session.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "正賽",
+      "決賽",
+      "衝刺賽",
+      "短衝刺",
+      "比賽"
+    ]
+  },
+  "TCC": {
+    "acronym": "TCC",
+    "term": "Testing of Current Car",
+    "definition": "defined as any track running time, not part of a Competition, in which a Competitor entered in the Championship participates (or in which a third party participates on behalf of a Competitor or a supplier of a homologated power unit), using a Current Car.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "現役賽車測試"
+    ]
+  },
+  "THC": {
+    "acronym": "THC",
+    "term": "Testing of Historic Car",
+    "definition": "defined as any track running time, not part of a Competition, in which a Competitor entered in the Championship participates (or in which a third party participates on behalf of a Competitor or a supplier of a homologated power unit), using a Historic Car.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf"
+  },
+  "TMC": {
+    "acronym": "TMC",
+    "term": "Testing of Mule Car",
+    "definition": "defined as any track running time, not part of a Competition, in which a Competitor entered in the Championship participates (or in which a third party participates on behalf of a Competitor or a supplier of a homologated power unit), using a Mule Car.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf"
+  },
+  "Fast Lane": {
+    "acronym": null,
+    "term": "Fast Lane",
+    "definition": "The Pit Lane will be divided into two lanes, the lane closest to the pit wall will be designated the Fast Lane and may be no more than 3.5 metres wide.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "快車道"
+    ]
+  },
+  "Inner Lane": {
+    "acronym": null,
+    "term": "Inner Lane",
+    "definition": "The Pit Lane will be divided into two lanes, the lane closest to the garages will be designated the Inner lane.",
+    "source": "fia_2026_section_b_sporting_iss05_2026-02-27.pdf",
+    "cn_aliases": [
+      "內車道"
+    ]
+  },
+  "Reserve Drivers": {
+    "acronym": null,
+    "term": "Reserve Drivers",
+    "definition": "tbc 2026 Regulations: General Regulatory Provisions 10 December 2025 A5 1 de l’Automobile Issue 01 GENERAL REGULATORY PROVISIONS",
+    "source": "fia_2026_section_a_general_iss01_2025-12-10.pdf"
+  },
+  "PU": {
+    "acronym": "PU",
+    "term": "PU",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "動力單元",
+      "引擎",
+      "動力系統"
+    ]
+  },
+  "ERS": {
+    "acronym": "ERS",
+    "term": "ERS",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "能量回收系統",
+      "電能回收"
+    ]
+  },
+  "VSC": {
+    "acronym": "VSC",
+    "term": "VSC",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "虛擬安全車"
+    ]
+  },
+  "SC": {
+    "acronym": "SC",
+    "term": "SC",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "安全車",
+      "實體安全車"
+    ]
+  },
+  "ISC": {
+    "acronym": "ISC",
+    "term": "ISC",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "國際運動規則",
+      "國際賽車運動規則"
+    ]
+  },
+  "WMSC": {
+    "acronym": "WMSC",
+    "term": "WMSC",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "世界賽車運動理事會"
+    ]
+  },
+  "ASN": {
+    "acronym": "ASN",
+    "term": "ASN",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "國家賽車運動總會"
+    ]
+  },
+  "ECU": {
+    "acronym": "ECU",
+    "term": "ECU",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "電子控制單元"
+    ]
+  },
+  "TPC": {
+    "acronym": "TPC",
+    "term": "TPC",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "前代賽車測試"
+    ]
+  },
+  "Pit Lane": {
+    "acronym": null,
+    "term": "Pit Lane",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "維修道",
+      "P房通道"
+    ]
+  },
+  "Parc Fermé": {
+    "acronym": null,
+    "term": "Parc Fermé",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "封閉檢查區",
+      "帕克費爾梅"
+    ]
+  },
+  "Stop-and-Go Penalty": {
+    "acronym": null,
+    "term": "Stop-and-Go Penalty",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "停車再走罰則",
+      "進站罰停"
+    ]
+  },
+  "Safety Car Line": {
+    "acronym": null,
+    "term": "Safety Car Line",
+    "definition": null,
+    "source": null,
+    "cn_aliases": [
+      "安全車線"
+    ]
+  }
+}
