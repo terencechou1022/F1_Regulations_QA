@@ -1,0 +1,5 @@
+# parse_regulations.py 與 build_glossary.py 需要。
+# retrieve.py 與測試只讀 data/clauses.jsonl，不需要它。
+pdfplumber>=0.11
+
+pytest>=8

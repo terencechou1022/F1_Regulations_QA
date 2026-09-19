@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      # 照樣裝完 requirements.txt，順便驗證宣告的相依裝得起來。
+      # 測試本身只讀版控裡的 data/clauses.jsonl，不需要 pdfplumber，
+      # 也不需要 PDF 原檔（那個不進版控）。
+      - name: 安裝相依套件
+        run: pip install -r requirements.txt
+
+      - name: 執行測試
+        run: python -m pytest -q
